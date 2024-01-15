@@ -1,0 +1,3 @@
+Install python3
+run as python
+start it-enjoy:)

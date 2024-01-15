@@ -9,7 +9,7 @@ def crack_password(password):
         if guess == password:
             return attempts
 
-password = input("Enter the password to crack: ")
+password = input("Enter the user to crack: ")
 
 print("Cracking password...")
 
